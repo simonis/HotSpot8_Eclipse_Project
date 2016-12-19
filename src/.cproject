@@ -33,13 +33,16 @@
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_x86=1"/>
+									<listOptionValue builtIn="false" value="TARGET_ARCH_MODEL_x86_64=1"/>
+									<listOptionValue builtIn="false" value="TARGET_OS_FAMILY_linux=1"/>
+									<listOptionValue builtIn="false" value="TARGET_OS_ARCH_linux_x86=1"/>
+									<listOptionValue builtIn="false" value="TARGET_OS_ARCH_MODEL_linux_x86_64=1"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="_LP64=1"/>
 									<listOptionValue builtIn="false" value="int64_t=long"/>
-									<listOptionValue builtIn="false" value="INCLUDE_SUFFIX_OS=_linux"/>
-									<listOptionValue builtIn="false" value="INCLUDE_SUFFIX_CPU=_x86"/>
+									<listOptionValue builtIn="false" value="_NMT_NOINLINE_=1"/>
 									<listOptionValue builtIn="false" value="DONT_USE_PRECOMPILED_HEADER=1"/>
 									<listOptionValue builtIn="false" value="VM_LITTLE_ENDIAN=1"/>
 								</option>
@@ -54,13 +57,16 @@
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_x86=1"/>
+									<listOptionValue builtIn="false" value="TARGET_ARCH_MODEL_x86_64=1"/>
+									<listOptionValue builtIn="false" value="TARGET_OS_FAMILY_linux=1"/>
+									<listOptionValue builtIn="false" value="TARGET_OS_ARCH_linux_x86=1"/>
+									<listOptionValue builtIn="false" value="TARGET_OS_ARCH_MODEL_linux_x86_64=1"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="_LP64=1"/>
 									<listOptionValue builtIn="false" value="int64_t=long"/>
-									<listOptionValue builtIn="false" value="INCLUDE_SUFFIX_OS=_linux"/>
-									<listOptionValue builtIn="false" value="INCLUDE_SUFFIX_CPU=_x86"/>
+									<listOptionValue builtIn="false" value="_NMT_NOINLINE_=1"/>
 									<listOptionValue builtIn="false" value="DONT_USE_PRECOMPILED_HEADER=1"/>
 									<listOptionValue builtIn="false" value="VM_LITTLE_ENDIAN=1"/>
 								</option>

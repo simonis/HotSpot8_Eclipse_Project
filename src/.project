@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>jdk9-hs-comp</name>
+	<name>jdk8u-dev</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -28,7 +28,7 @@
 		<link>
 			<name>generated</name>
 			<type>2</type>
-			<locationURI>OUTPUT_ROOT/hotspot/variant-server/gensrc</locationURI>
+			<locationURI>OUTPUT_ROOT/hotspot/linux_amd64_compiler2/generated</locationURI>
 		</link>
 	</linkedResources>
 	<filteredResources>
@@ -45,7 +45,7 @@
 	<variableList>
 		<variable>
 			<name>OUTPUT_ROOT</name>
-			<value>file:/priv/d046063/OpenJDK/output-jdk9-hs-comp-dbg</value>
+			<value>file:/share/output-jdk8u-dbg</value>
 		</variable>
 	</variableList>
 </projectDescription>
